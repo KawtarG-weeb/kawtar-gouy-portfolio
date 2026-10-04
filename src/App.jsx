@@ -182,11 +182,7 @@ export default function App() {
               ))}
             </div>
 
-            <p className="evidence-note reveal">
-              Les emplacements visuels sont volontairement laissés neutres tant
-              que les captures réelles ne sont pas fournies. Aucun faux écran
-              n’est présenté comme une réalisation.
-            </p>
+            
           </div>
         </section>
 
